@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="rizqara-tech-logo.png" alt="RizQara Tech Logo" width="140" />
+  <img src="rizqaracover.png" alt="RizQara Tech Logo" width="140" />
 
 # RizQara Tech
 
